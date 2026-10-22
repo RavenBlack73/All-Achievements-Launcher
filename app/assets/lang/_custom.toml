@@ -1,0 +1,20 @@
+# Custom Language File for Launcher Customizer
+
+[ejs.app]
+title = "All Achievements"
+
+[ejs.landing]
+mediaGitHubURL = "https://github.com/RavenBlack73/All-Achievements-Launcher"
+mediaXURL = "#"
+mediaInstagramURL = "#"
+mediaYouTubeURL = "#"
+mediaDiscordURL = "#"
+
+[ejs.settings]
+sourceGithubLink = "https://github.com/RavenBlack73/All-Achievements-Launcher"
+supportLink = "https://github.com/RavenBlack73/All-Achievements-Launcher/issues"
+
+[ejs.welcome]
+welcomeHeader = "WELCOME TO ALL ACHIEVEMENTS"
+welcomeDescription = "Play All Achievements with Minecraft 26.3, NeoForge, and the server's required mods and resource packs."
+welcomeDescCTA = "Your adventure is just a few clicks away."

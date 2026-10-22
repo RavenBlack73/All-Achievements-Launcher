@@ -1,0 +1,118 @@
+{
+  "game": "minecraft",
+  "formatVersion": 1,
+  "versionId": "1.0.0",
+  "name": "All Achievements",
+  "summary": "",
+  "files": [
+    {
+      "path": "resourcepacks/Dark Smooth GUI 26.3.x blue-3D94FF-5EA6FF-0049A3-00316E.zip",
+      "hashes": {
+        "sha1": "cb5b323a5bc62f28dd0dbf1b05f5b82c66dee561",
+        "sha512": "593f8d5cf829a52da1772ce8805c57f56b57bebe928762ad20a11377b6caf963d6e1729234759cbf5dc9e749946a0c721e6534bf6e96ca320286e7fd7c37fbc7"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/3BPM3cU5/versions/sNAf0sPk/Dark%20Smooth%20GUI%2026.3.x%20blue-3D94FF-5EA6FF-0049A3-00316E.zip"
+      ],
+      "fileSize": 2160501
+    },
+    {
+      "path": "resourcepacks/Better-Leaves-9.6.zip",
+      "hashes": {
+        "sha1": "fa3a961b82a9f15a4e80b1f7f021bc121649f073",
+        "sha512": "793dacaca4c200656e8875195e42975ecb628af114e13aad2059368b51cf45f00280f86075368e9adf492e847718a9d593bdf481664e10cf1aa9628d2a51a8d6"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/uvpymuxq/versions/w4ReEpuG/Better-Leaves-9.6.zip"
+      ],
+      "fileSize": 1977146
+    },
+    {
+      "path": "resourcepacks/FreshTextures+FA 1.0.6.zip",
+      "hashes": {
+        "sha1": "8a2f5672403c4b55d349f65ae24d99a2825d3feb",
+        "sha512": "22b7d82660b1153ecf6ab79a12b8ed57709cbe2c98795e96b0cc7266394b8c2d2e5d8c66458528aed47cdfb1a7335aecd47d1ea7d7e7210e402f7d090f09f488"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/MAHYKLnX/versions/1t4YDgJK/FreshTextures%2BFA%201.0.6.zip"
+      ],
+      "fileSize": 2897975
+    },
+    {
+      "path": "resourcepacks/FreshAnimations_v1.11.1_26.1+.zip",
+      "hashes": {
+        "sha1": "ae9175983c5109162c86daae1acff34ccf623faf",
+        "sha512": "5357a3dbce74f5bdb688f3c4e6f7cadb6e0d81d3dde41d46017993d5bc5456a325a39a3faad0d471be51fcc73e3a47218ec64ed8e0024b092cd117b422f23356"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/50dA9Sha/versions/tvGVYMD4/FreshAnimations_v1.11.1_26.1%2B.zip"
+      ],
+      "fileSize": 776684
+    },
+    {
+      "path": "resourcepacks/FA+All_Extensions-v1.9.2.zip",
+      "hashes": {
+        "sha1": "510b8b67d2de0852ffbff704906b8dff78443b67",
+        "sha512": "3c4ab508aba2bbb79b5d73caa7bac77f2caca075dbe09f64f8af35851ae04a41d81973a268ed5b99c75efe60db9d69715e4e01838410b55e1224a6ce856286cd"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/YAVTU8mK/versions/R5ZGSF8A/FA%2BAll_Extensions-v1.9.2.zip"
+      ],
+      "fileSize": 380622
+    },
+    {
+      "path": "resourcepacks/Fresh Textures v2.0.1.1.zip",
+      "hashes": {
+        "sha1": "049d6ddf2a36bde4bcd2daa8509ba70da3133e70",
+        "sha512": "571d7205d71c85184472d3fad48d0c5bfab4d51062c2c86f6f3d84cf4ddcba60efca692b7a507567fcd245e5ae860430378d6cf86aad809c69a57b2813d04f9a"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/p6DhaYT0/versions/w7BtJ3hF/Fresh%20Textures%20v2.0.1.1.zip"
+      ],
+      "fileSize": 7651476
+    },
+    {
+      "path": "resourcepacks/Fullbright-UB-26.3 fub-7.0.zip",
+      "hashes": {
+        "sha512": "6143e2ec1f8649c68d02fd3f11bb896f5a11f370219b78b57316f7990ed04ef3a549809540affb4b39e18e66f53808a315bad401655e2d50b31ec69b590f2530",
+        "sha1": "9551bb3f20c28875986464fc8ec3f7d806ba3f20"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/ItHr72Fy/versions/SmHiPjfF/Fullbright-UB-26.3%20fub-7.0.zip"
+      ],
+      "fileSize": 239307
+    }
+  ],
+  "dependencies": {
+    "neoforge": "26.3.0.92",
+    "minecraft": "26.3"
+  }
+}

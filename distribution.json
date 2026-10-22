@@ -1,0 +1,23 @@
+{
+    "version": "1.0.0",
+    "rss": "",
+    "discord": {},
+    "servers": [
+        {
+            "id": "minecraft-26.3-neoforge-26.3.0.92",
+            "name": "All Achievements",
+            "description": "All Achievements - Minecraft 26.3 with NeoForge 26.3.0.92.",
+            "icon": "assets/images/SealCircle.png",
+            "version": "26.3.0.92",
+            "address": "AllGameAchievements.exaroton.me:43039",
+            "minecraftVersion": "26.3",
+            "javaOptions": {
+                "supported": "25.x",
+                "suggestedMajor": 25
+            },
+            "mainServer": true,
+            "autoconnect": true,
+            "modules": []
+        }
+    ]
+}

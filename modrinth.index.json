@@ -1,0 +1,178 @@
+{
+  "game": "minecraft",
+  "formatVersion": 1,
+  "versionId": "1.0.0",
+  "name": "All Achievements",
+  "summary": "",
+  "files": [
+    {
+      "path": "mods/jei-26.3-neoforge-31.16.0.83.jar",
+      "hashes": {
+        "sha512": "12d53058fe4d3e7b3e67d8b37a77dedb360ce66bec25e454f0318931ef458dc6033414a6a1563c987e7a6f63fbb310d5dee27a496b270bc22b848008d53ae08e",
+        "sha1": "e4061feb3a135a22790959689133b94fc008d1d7"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/u6dRKJwZ/versions/vDGgPeeo/jei-26.3-neoforge-31.16.0.83.jar"
+      ],
+      "fileSize": 7357592
+    },
+    {
+      "path": "mods/yet_another_config_lib_v3-3.9.7+26.3-neoforge.jar",
+      "hashes": {
+        "sha1": "2b69bd5bd28b08e17efb7f39ccbf53bbffab4f69",
+        "sha512": "4f94b08706825c0e5f8413a68783355d60bd3da7b6526c817caad997147db6eae42f187c7f14a0242941a7ceec9d69396978e154342f6c9d55862258b0afbfa8"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/1eAoo2KR/versions/GL24RgOP/yet_another_config_lib_v3-3.9.7%2B26.3-neoforge.jar"
+      ],
+      "fileSize": 1117503
+    },
+    {
+      "path": "mods/iris-neoforge-1.11.7+mc26.3.jar",
+      "hashes": {
+        "sha512": "302659f09e50d02a6cd96075be93aade2a2f9d709afe21d56465228fb7d7f4717566e3702a7872479df2fff9b7a5ff5b1b6047cc95e09ee6120fad5ea5857eec",
+        "sha1": "57cbbd1f58b6226c633520541c1a3ae57c019373"
+      },
+      "env": {
+        "client": "required",
+        "server": "unsupported"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/YL57xq9U/versions/Ag5S66CF/iris-neoforge-1.11.7%2Bmc26.3.jar"
+      ],
+      "fileSize": 2804761
+    },
+    {
+      "path": "mods/[26.3] SecurityCraft v1.10.2.1-beta4.jar",
+      "hashes": {
+        "sha1": "a0451a8423872987ada80fdb9300f168bff50904",
+        "sha512": "099284428d25b79b1464f5b4dcb9f6de4e98be939983f49c6a3d8a4ad5f41079aa800803504085285acb890daf289bb119fe2621ea290cdd8088babfc0830432"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/v8jzRtAt/versions/mgxwefx4/%5B26.3%5D%20SecurityCraft%20v1.10.2.1-beta4.jar"
+      ],
+      "fileSize": 5680875
+    },
+    {
+      "path": "mods/entity_model_features-3.3.12-26.3-neoforge.jar",
+      "hashes": {
+        "sha1": "b54d176fe7d34a29838ee6b8eeed2f55ed72d0e7",
+        "sha512": "a663bc65981490157c0ecbef5e935a84aad2597d2a43cdbd2890d70d59fc7ea660116fa09f11fb4d620a90eb8635b37f99ac46d4b11a89a6d0f1d553b4de644b"
+      },
+      "env": {
+        "client": "required",
+        "server": "unsupported"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/4I1XuqiY/versions/a1TEBxBW/entity_model_features-3.3.12-26.3-neoforge.jar"
+      ],
+      "fileSize": 665542
+    },
+    {
+      "path": "mods/entity_texture_features-7.2.6-26.3-neoforge.jar",
+      "hashes": {
+        "sha1": "3c417d802fc0bf1a35d0e8c4c54381ba7e1ddf63",
+        "sha512": "30be8e3f76d65a488a208e77452e219a1c3d68acccb03ca7a0f3efacd8da36d871bf0d37a7309200b22d5ada10ff2328fc0948ce1e4184f8934594cef47fb9aa"
+      },
+      "env": {
+        "server": "unsupported",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/BVzZfTc1/versions/bD9JPCuU/entity_texture_features-7.2.6-26.3-neoforge.jar"
+      ],
+      "fileSize": 793559
+    },
+    {
+      "path": "mods/mezz_config-26.3-neoforge-0.6.8-standalone.jar",
+      "hashes": {
+        "sha1": "a1c1f51cb1e99eef3b4d6c84415ce98e71a51742",
+        "sha512": "6774c36d33775fb72d5b1079271c381d0935ef6cdf8a4ae3b84c63a657d8aa4fee10d67432f9cbddb27741fc9434f5347eed0f05b1fe64205dc2c6809c5197fd"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/7tEfOcA7/versions/WFeT02Wv/mezz_config-26.3-neoforge-0.6.8-standalone.jar"
+      ],
+      "fileSize": 327189
+    },
+    {
+      "path": "mods/KotlinLangForge-2.15.0-k2.4.21-3.1+neoforge.jar",
+      "hashes": {
+        "sha512": "327b770c675d1c58a83e06054220646709a82d8f7831bab7ceaa93e9dcf2bb370adc9dcbe1eb9378d5890b564f5c964d23d728afbbd0365a880bcec16957bcdb",
+        "sha1": "b0051d7499914f7ab6bbf1ed6a4edf0476a23e1d"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/1vrSzlao/versions/cu66H8iw/KotlinLangForge-2.15.0-k2.4.21-3.1%2Bneoforge.jar"
+      ],
+      "fileSize": 8222675
+    },
+    {
+      "path": "mods/veinminer-neoforge-2.12.3.jar",
+      "hashes": {
+        "sha512": "4d7e14e08db753821aa52ea4ee2fc161e53ed07ad93431cfb3b2400af3d0d61893e61fabbfbf71554ce4e526772e8ec9601669a4be31beb9be9cc30d48011df6",
+        "sha1": "f5919eed38a1c8d95866677a760d3f611413c109"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/OhduvhIc/versions/fYKoPw5F/veinminer-neoforge-2.12.3.jar"
+      ],
+      "fileSize": 644989
+    },
+    {
+      "path": "mods/worldedit-mod-7.4.6.jar",
+      "hashes": {
+        "sha1": "8f7962199ec8b3fef214b7f81c07fcf2d1eac28f",
+        "sha512": "3bc4fbf2ee36746f54dc036283b3ded3f17fd91991eaa1ead76b0861aa902cd7ffbc0962db0065d8690e46d1c4890847ebe97ee0b4e36a979b41168c30586ee4"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/1u6JkXh5/versions/ByRNkO83/worldedit-mod-7.4.6.jar"
+      ],
+      "fileSize": 5166790
+    },
+    {
+      "path": "mods/sodium-neoforge-0.9.3-beta.1+mc26.3.jar",
+      "hashes": {
+        "sha1": "c9412897122afb33007f6c0d6ee1b2248a9ebcf7",
+        "sha512": "92cdb344cb8049993685e3d81498411d4e6965a8f054c912a297bfe550937ed4792b7c1cb4efea5b5ac9c0e6c32aea777389207e481f008ce6f176b5ae6aab93"
+      },
+      "env": {
+        "server": "unsupported",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/AANobbMI/versions/SS023RVV/sodium-neoforge-0.9.3-beta.1%2Bmc26.3.jar"
+      ],
+      "fileSize": 1209577
+    }
+  ],
+  "dependencies": {
+    "minecraft": "26.3",
+    "neoforge": "26.3.0.92"
+  }
+}
